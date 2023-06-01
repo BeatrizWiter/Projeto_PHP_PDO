@@ -1,6 +1,5 @@
 {
-    "name": "admin/projeto-php-pdo",
-    "description": "Projeto para aprender e banco de dados.",
+    "name": "admin/projeto_php_pdo",
     "type": "project",
     "require": {
         "monolog/monolog": "^3.3"
