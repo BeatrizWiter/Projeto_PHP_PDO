@@ -10,7 +10,7 @@
     <h1>Começando com PDO</h1>
     <h2>PDO é a tecnologia do php para acessar banco de dados</h2>
     <?php
-        require_once("main.php");
+        include_once("main.php");
     ?>
 </body>
 </html>

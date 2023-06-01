@@ -3,7 +3,7 @@
         'name' => 'admin/projeto_php_pdo',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'ba0b5884aba624ee1385c7d689ba4d3385388c06',
+        'reference' => '1d567be9b6eaedcab3a3ba3f8dd246e8b8cba0d2',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'admin/projeto_php_pdo' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'ba0b5884aba624ee1385c7d689ba4d3385388c06',
+            'reference' => '1d567be9b6eaedcab3a3ba3f8dd246e8b8cba0d2',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
